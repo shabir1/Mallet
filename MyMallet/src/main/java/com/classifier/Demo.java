@@ -1,5 +1,10 @@
 package com.classifier;
 
+/**
+ *@Author : Shabir Ahmad
+ * @Date: 9-08-2015
+ */
+
 import cc.mallet.classify.Classifier;
 import cc.mallet.classify.ClassifierTrainer;
 import cc.mallet.classify.NaiveBayesTrainer;
@@ -13,7 +18,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-/**
+/**\
  *
  */
 public class Demo {

@@ -37,4 +37,6 @@ public class MyMalletClassifier extends Classifier {
     public Classification classify(Instance instance) {
         return null;
     }
+
+
 }
